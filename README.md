@@ -16,6 +16,22 @@ It features a **Home tab** with banners and categories, and an **Orders tab** di
 
 ---
 
+
+## 📸 Screenshots
+
+### 🏠 Home Screen
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/c53f06c7-9b01-499c-b642-68427862a358" width="30%" />
+  <img src="https://github.com/user-attachments/assets/efb2e79e-21e1-4d53-b7cc-68287592f137" width="30%" />
+</p>
+
+### 🏠 Order Screen
+<p float="left">
+ <img src="https://github.com/user-attachments/assets/15406c21-7849-4fca-b14a-835baaf75564" width="30%" />
+</p>
+---
+
 ## 🛠️ Approach & Architecture
 
 This project follows **MVVM Clean Architecture** with a clear separation of concerns:
