@@ -1,4 +1,4 @@
-package com.example.fooddeliveryapp_task.ui.theme
+package com.example.fooddeliveryapp_task.presentation.theme
 
 
 import androidx.compose.material3.Typography

@@ -1,4 +1,4 @@
-package com.example.fooddeliveryapp_task.ui.theme
+package com.example.fooddeliveryapp_task.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
@@ -15,3 +15,5 @@ val BottomNavSelected = Color(0xFF1DBF73)
 val BottomNavUnselected = Color(0xFF9E9E9E)
 val BottomNavSelectedColor = Color(0xFFE53935) // Red for active tab
 val BottomNavUnselectedColor = Color(0xFF757575) // Gray for inactive tab
+val CategoryBg = Color(0xFFFDEFEF)
+val TextColor = Color(0xFF2E2E2E)

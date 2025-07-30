@@ -4,5 +4,23 @@
     <string name="order">Orders</string>
     <string name="cart">Cart</string>
     <string name="profile">Profile</string>
+    <string name="txt_view_all">View all</string>
+    <string name="txt_recommended_for_you">Recommended for you</string>
+    <string name="txt_sale_up_to_50">Sale up to 50%</string>
+    <string name="txt_you_have_5_voucher_here">You have 5 voucher here</string>
+    <string name="txt_home">Home</string>
+    <string name="txt_all_items">All Items</string>
+    <string name="txt_order_summary">Order Summary</string>
+    <string name="txt_your_delivery_address">Your Delivery Address</string>
+    <string name="txt_order_now">Order Now</string>
+    <string name="txt_your_cart_is_empty">Your cart is empty.</string>
+    <string name="txt_subtotal">Subtotal</string>
+    <string name="txt_delivery">Delivery</string>
+    <string name="txt_total_tax">Total Tax</string>
+    <string name="txt_total">Total</string>
+    <string name="txt_information">Information</string>
+    <string name="txt_payment_method">Payment Method</string>
+    <string name="txt_banner_image">Banner Image</string>
+    <string name="txt_retry">Retry</string>
 
 </resources>

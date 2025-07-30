@@ -1,4 +1,4 @@
-package com.example.fooddeliveryapp_task.ui.theme
+package com.example.fooddeliveryapp_task.presentation.theme
 
 import android.app.Activity
 import android.os.Build
