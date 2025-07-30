@@ -60,7 +60,6 @@ This project follows **MVVM Clean Architecture** with a clear separation of conc
 - Architecture supports easy integration of real APIs.
 - Follows **OOP** and modern **Android development best practices**.
 - UI consistency is maintained across scrolls and tab switches.
-- Designed to be **test-ready**, even though unit tests were skipped due to time constraints.
 
 ---
 
